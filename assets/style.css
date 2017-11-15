@@ -7,7 +7,7 @@ header {
 	background-color: #fff;
     height: 70px;
   padding: 0 7%;
-  display: none !important;
+  /* display: none !important; */
     color: #616774;
 	border-bottom: 1px solid #dad7d7;
 }
@@ -40,7 +40,7 @@ header {
 }
 .chatHeight {
   overflow-y: auto;
-  height: calc(100vh - 61px);
+  height: calc(100vh - 136px);
   padding: 15px 10px 0 10px;
   box-sizing: border-box;
   -webkit-box-sizing: border-box;
